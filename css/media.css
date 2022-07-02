@@ -1,0 +1,126 @@
+@media (max-width: 375px) {
+  .container {
+    width: 375px;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 375px) {
+  #header .header__content {
+    display: block;
+    padding: 0;
+  }
+}
+@media (max-width: 375px) {
+  #hero {
+    padding: 20px 30px;
+  }
+}
+@media (max-width: 375px) {
+  #about {
+    padding: 10px;
+  }
+  #about .about__title {
+    display: block;
+    margin-left: 110px;
+  }
+  #about .about__title__underline {
+    margin-left: 65px;
+  }
+  #about .about .about__content {
+    display: block;
+  }
+  #about .about .about__content__left img {
+    width: 360px;
+    margin-bottom: 10px;
+  }
+  #about .about .about__content__right {
+    width: 360px;
+  }
+}
+@media (max-width: 375px) {
+  #skills {
+    padding: 15px;
+  }
+  #skills .skills__title {
+    display: block;
+    margin-left: 4.5rem;
+  }
+  #skills .skills__title__underline {
+    margin-left: 90px;
+  }
+  #skills .skills__content {
+    display: block;
+  }
+  #skills .skills__content__left {
+    width: 350px;
+  }
+  #skills .skills__content__right {
+    margin-top: 2rem;
+    width: 360px;
+  }
+}
+@media (max-width: 375px) {
+  #services {
+    padding: 0 15px;
+  }
+  #services .services__title {
+    display: block;
+    margin-left: 3rem;
+  }
+  #services .services__title__underline {
+    margin-left: 7rem;
+  }
+  #services .services_p {
+    padding: 10px;
+    display: block;
+    width: 360px;
+    margin-bottom: 2rem;
+  }
+  #services .services__content {
+    display: block;
+    padding: 20px 40px;
+  }
+}
+@media (max-width: 375px) {
+  #work {
+    padding: 4rem 10px;
+  }
+  #work .work__title {
+    display: block;
+    margin-left: 5rem;
+  }
+  #work .work__title__underline {
+    margin-left: 5rem;
+  }
+  #work .work__content {
+    display: block;
+  }
+  #work .work__btn {
+    margin: 30px 0 40px 8rem;
+  }
+}
+@media (max-width: 375px) {
+  #contact {
+    padding: 30px 20px;
+  }
+  #contact .contact__title {
+    display: block;
+    margin-left: 2rem;
+  }
+  #contact .contact__title__underline {
+    margin-left: 6rem;
+  }
+  #contact .contact__content {
+    display: block;
+  }
+  #contact .contact__content__block {
+    margin: 30px 40px;
+  }
+  #contact .content__medium__global {
+    display: block;
+    margin: 10px 0 0 0;
+    width: 300px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
